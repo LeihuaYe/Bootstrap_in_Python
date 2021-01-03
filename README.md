@@ -1,7 +1,7 @@
 # Bootstrap_in_Python
 
 This repository explains how bootstrap (a resampling method) works in a real-life scenario. 
-For the final write-up, please refer to my technical blog: https://medium.com/@leihua_ye.
+For the final write-up, please refer to my technical blog: https://towardsdatascience.com/bootstrap-and-statistical-inference-in-python-a06d098a8bfd.
 
 ## Installing
 We need to two packages: numpy and matplotlib.pyplot. 
